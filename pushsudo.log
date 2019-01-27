@@ -1,0 +1,32 @@
+2018-11-04 17:30:45.055549 : rdh52706 in 192.168.212.131 Do Nothing
+2018-11-04 17:30:45.397612 : rdmb0369 in 192.168.212.132 Do Nothing
+2018-11-04 17:30:45.625007 : rdcy4168 in 192.168.212.133 Do Nothing
+2018-11-04 17:31:27.143257 : rdh52706 in 192.168.212.131 Do Nothing
+2018-11-04 17:31:27.649901 : rdmb0369 in 192.168.212.132 Do Nothing
+2018-11-04 17:31:27.877294 : rdcy4168 in 192.168.212.133 Do Nothing
+2018-11-04 17:37:12.839933 : rdh52706 in 192.168.212.131 Do Nothing
+2018-11-04 17:37:13.163067 : rdmb0369 in 192.168.212.132 Do Nothing
+2018-11-04 17:37:13.407413 : rdcy4168 in 192.168.212.133 Do Nothing
+2018-11-04 17:49:48.867245 : Can't connect Server:192.168.212.131
+2018-11-04 17:50:09.870143 : Can't connect Server:192.168.212.132
+2018-11-04 17:50:30.871963 : Can't connect Server:192.168.212.133
+2018-11-04 17:50:51.874387 : Can't connect Server:192.168.1.88
+2018-11-04 18:04:10.175236 : OrderedDict([('Account', 'rdh52706'), ('Host', '192.168.212.131'), ('StartTime', '2018-11-3'), ('EndTime', '2018-11-5')]) Can't connect Server:192.168.212.131
+2018-11-04 18:04:31.179166 : OrderedDict([('Account', 'rdmb0369'), ('Host', '192.168.212.132'), ('StartTime', '2018-11-1'), ('EndTime', '2018-11-2')]) Can't connect Server:192.168.212.132
+2018-11-04 18:04:52.182007 : OrderedDict([('Account', 'rdcy4168'), ('Host', '192.168.212.133'), ('StartTime', '2018-5-5'), ('EndTime', '2018-6-8')]) Can't connect Server:192.168.212.133
+2018-11-04 18:05:39.665025 : OrderedDict([('Account', 'rdh52706'), ('Host', '192.168.212.131'), ('StartTime', '2018-11-3'), ('EndTime', '2018-11-5')]) Can't connect Server:192.168.212.131
+2018-11-04 18:05:44.666696 : OrderedDict([('Account', 'rdmb0369'), ('Host', '192.168.212.132'), ('StartTime', '2018-11-1'), ('EndTime', '2018-11-2')]) Can't connect Server:192.168.212.132
+2018-11-04 18:05:49.667344 : OrderedDict([('Account', 'rdcy4168'), ('Host', '192.168.212.133'), ('StartTime', '2018-5-5'), ('EndTime', '2018-6-8')]) Can't connect Server:192.168.212.133
+2018-11-04 18:12:47.344209 : OrderedDict([('Account', 'rdh52706'), ('Host', '192.168.212.131'), ('StartTime', '2018-11-3'), ('EndTime', '2018-11-5')])  Do Nothing
+2018-11-04 18:12:47.666345 : OrderedDict([('Account', 'rdmb0369'), ('Host', '192.168.212.132'), ('StartTime', '2018-11-1'), ('EndTime', '2018-11-2')])  Do Nothing
+2018-11-04 18:12:47.893739 : OrderedDict([('Account', 'rdcy4168'), ('Host', '192.168.212.133'), ('StartTime', '2018-5-5'), ('EndTime', '2018-6-8')])  Do Nothing
+2018-11-04 18:17:05.251204 : {'Account': 'rdcy4168', 'Host': '192.168.212.131', 'StartTime': '2018-11-4', 'EndTime': '2018-11-5'}  Do Nothing
+2018-11-04 18:18:18.755700 : {'Account': 'rdcy4168', 'Host': '192.168.212.131', 'StartTime': '2018-11-4', 'EndTime': '2018-11-5'}  Do Nothing
+2018-11-04 18:19:10.651962 : {'Account': 'rdcy4168', 'Host': '192.168.212.131', 'StartTime': '2018-11-4', 'EndTime': '2018-11-5'}  Do Nothing
+2018-11-04 18:20:08.491578 : {'Account': 'rdcy4168', 'Host': '192.168.212.131', 'StartTime': '2018-11-4', 'EndTime': '2018-11-5'}  Do Nothing
+2018-11-04 18:21:31.691546 : {'Account': 'rdcy4168', 'Host': '192.168.212.131', 'StartTime': '2018-11-4', 'EndTime': '2018-11-5'} host_state=False Do Nothing
+2018-11-04 18:50:44.427709 : {'Account': 'rdcy4168', 'Host': '192.168.212.131', 'StartTime': '2018-11-4', 'EndTime': '2018-11-5'} host_state=True add sudoers.d file
+2018-11-04 18:51:11.082427 : OrderedDict([('Account', 'rdcy4168'), ('Host', '192.168.212.131'), ('StartTime', '2018-11-4'), ('EndTime', '2018-11-5')]) host_state=TrueCan't connect Server
+2018-11-04 18:57:37.609205 : OrderedDict([('Account', 'rdcy4168'), ('Host', '192.168.212.131'), ('StartTime', '2018-11-4'), ('EndTime', '2018-11-5')]) host_state=TrueCan't connect Server
+2018-11-04 18:58:09.137550 : OrderedDict([('Account', 'rdcy4168'), ('Host', '192.168.212.131'), ('StartTime', '2018-11-4'), ('EndTime', '2018-11-5')]) host_state=True had already added sudoers.d file
+2018-11-04 21:15:09.906612 : OrderedDict([('Account', 'rdcy4168'), ('Host', '192.168.212.131'), ('StartTime', '2018-11-4'), ('EndTime', '2018-11-5')]) host_state=TrueCan't connect Server
